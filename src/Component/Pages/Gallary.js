@@ -1,0 +1,87 @@
+import React from 'react'
+import "../Krustycone.css"
+
+import img1 from "../../assets/1.png";
+import img2 from "../../assets/2.png";
+import img3 from "../../assets/3.png";
+import img4 from "../../assets/4.png";
+import img5 from "../../assets/5.png";
+import img6 from "../../assets/6.png";
+import img7 from "../../assets/7.png";
+import img8 from "../../assets/8.png";
+
+
+function Gallary() {
+  return (
+    <div>
+             {/* Gallery Section */}
+      <section id="gallery">
+        <div className="container">
+          <h1 className="about-title p-5 text-center">GALLERY</h1>
+          <div className="gallery">
+            <img
+              src={img1}
+              alt="Gallery Image 1"
+              width="100%"
+              height="auto"
+              className="gallery-img"
+            />
+            <img
+              src={img2}
+              alt="Gallery Image 2"
+              width="100%"
+              height="auto"
+              className="gallery-img"
+            />
+            <img
+              src={img3}
+              alt="Gallery Image 2"
+              width="100%"
+              height="auto"
+              className="gallery-img"
+            />
+            <img
+              src={img4}
+              alt="Gallery Image 2"
+              width="100%"
+              height="auto"
+              className="gallery-img"
+            />
+            <img
+              src={img5}
+              alt="Gallery Image 2"
+              width="100%"
+              height="auto"
+              className="gallery-img"
+            />
+            <img
+              src={img6}
+              alt="Gallery Image 2"
+              width="100%"
+              height="auto"
+              className="gallery-img"
+            />
+            <img
+              src={img7}
+              alt="Gallery Image 2"
+              width="100%"
+              height="auto"
+              className="gallery-img"
+            />
+            <img
+              src={img8}
+              alt="Gallery Image 2"
+              width="100%"
+              height="auto"
+              className="gallery-img"
+            />
+            {/* Add more images here */}
+          </div>
+        </div>
+      </section>
+
+    </div>
+  )
+}
+
+export default Gallary
