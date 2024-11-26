@@ -36,7 +36,7 @@ export const Navbar = () => {
         </div>
         <div className="mx-auto order-0 order-md-1 position-relative main-logo">
           <a className="mx-auto" href="#">
-            <img src={mainlogo} alt="Main Logo" />
+            <img src={mainlogo} />
           </a>
           <button
             className="navbar-toggler"

@@ -11,7 +11,7 @@ function About() {
           <h1 className="about-title text-center p-5">ABOUT US</h1>
           <div className="row text-center">
             <div className="col-sm-6 hover01">
-              <img src={About2} width="90%" alt="krustycone about-img-2" />
+              <img src={About2} width="90%"  />
             </div>
             <div className="col-sm-6">
               <p className="about-info">

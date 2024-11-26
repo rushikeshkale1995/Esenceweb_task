@@ -21,56 +21,51 @@ function Gallary() {
           <div className="gallery">
             <img
               src={img1}
-              alt="Gallery Image 1"
+            
               width="100%"
               height="auto"
               className="gallery-img"
             />
             <img
               src={img2}
-              alt="Gallery Image 2"
+             
               width="100%"
               height="auto"
               className="gallery-img"
             />
             <img
               src={img3}
-              alt="Gallery Image 2"
+             
               width="100%"
               height="auto"
               className="gallery-img"
             />
             <img
               src={img4}
-              alt="Gallery Image 2"
               width="100%"
               height="auto"
               className="gallery-img"
             />
             <img
               src={img5}
-              alt="Gallery Image 2"
               width="100%"
               height="auto"
               className="gallery-img"
             />
             <img
               src={img6}
-              alt="Gallery Image 2"
               width="100%"
               height="auto"
               className="gallery-img"
             />
             <img
               src={img7}
-              alt="Gallery Image 2"
               width="100%"
               height="auto"
               className="gallery-img"
             />
             <img
               src={img8}
-              alt="Gallery Image 2"
               width="100%"
               height="auto"
               className="gallery-img"

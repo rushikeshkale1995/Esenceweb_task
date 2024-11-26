@@ -24,7 +24,7 @@ function Reviews() {
                     <div className="row text-center">
                       <div className="col-md-4 col-sm-12 mb-5">
                         <div className="box">
-                          <img src={quote} width="50px" alt="Quote" />
+                          <img src={quote} width="50px"  />
                           <p>
                             Amazing food , a different concept the ambience is
                             just on point , loved their shakes , hazelnut shake
@@ -35,7 +35,7 @@ function Reviews() {
                       </div>
                       <div className="col-md-4 col-sm-12 mb-5">
                         <div className="box">
-                          <img src={quote} width="50px" alt="Quote" />
+                          <img src={quote} width="50px"  />
                           <p>
                             Amazing and cute lil place!! I tried Ferrero Rocher
                             shake was simply awesome. Also had Jalapeno and
@@ -48,7 +48,7 @@ function Reviews() {
                       </div>
                       <div className="col-md-4 col-sm-12 mb-5">
                         <div className="box">
-                          <img src={quote} width="50px" alt="Quote" />
+                          <img src={quote} width="50px" />
                           <p>
                             Loved it!! Just amazing 😊😍😍😍 Pizza cones and the
                             hazel shake my new fav😍💕💕 A must visit for every
